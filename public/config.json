@@ -1,12 +1,12 @@
 {
-  "site_name": "NodeGet Status",
+  "site_name": "vps服务器",
   "site_logo": "",
   "footer": "Powered by NodeGet",
   "site_tokens": [
     {
       "name": "master server node 1",
-      "backend_url": "wss://your-backend.example.com",
-      "token": "YOUR_TOKEN_HERE"
+      "backend_url": "wss://x.xxxu.me",
+      "token": "Bbu0z8kDRGNwRE9i:YRvA1NXkHK4qnsSjbeBbPEhPPg6mvYqJ"
     }
   ]
 }
